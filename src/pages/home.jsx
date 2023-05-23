@@ -19,7 +19,7 @@ export default function Home() {
                 <div className="page-banner home-banner">
                     <div className="row align-items-center flex-wrap-reverse h-100">
                         <div className="col-md-6 py-5 animate__animated animate__fadeInLeft">
-                            <h1 className="mb-4">Let's Check and Optimize your website!</h1>
+                            <h1 className="mb-4">Mottaiya potra vendi thaan !</h1>
                             <p className="text-lg text-grey mb-5">Ignite the most powerfull growth engine you have ever built for your company</p>
                         </div>
                         <div className="col-md-6 py-5 animate__animated animate__fadeIn">
