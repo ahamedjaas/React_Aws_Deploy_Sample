@@ -1,6 +1,5 @@
 import React from 'react'
 import { Link } from 'react-router-dom';
-import banner_image_1 from '../assets/img/banner_image_1.svg';
 import banner_image_2 from '../assets/img/banner_image_2.svg';
 import service_1 from '../assets/img/services/service-1.svg';
 import service_2 from '../assets/img/services/service-2.svg';
