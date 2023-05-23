@@ -25,7 +25,7 @@ export default function Home() {
                         </div>
                         <div className="col-md-6 py-5 animate__animated animate__fadeIn">
                             <div className="img-fluid text-center">
-                                <img src={banner_image_1} alt="max" />
+                                <img src={banner_image_1} alt="Jaasim" />
                             </div>
                         </div>
                     </div>
